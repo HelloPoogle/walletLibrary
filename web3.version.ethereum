@@ -1,0 +1,3 @@
+web3.version.ethereum
+// or async
+web3.version.getEthereum(callback(error, result){ ... })
